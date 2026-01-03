@@ -1,6 +1,39 @@
 #############################################################################################
-The followng instructions can be inserted in a txt file a directly loaded by a generci LLM.
+# LLM instructions: The followng instructions can be inserted into a txt file a directly 
+#                   loaded by a generic LLM.        
+# Rev: 2.0                                       
+# Updated: 3rd of January 2026                  
+# Goal: Effective Tris (Tic Tac Toe) game by generic LLM.
+#
+# MIT License
+#
+# Copyright (c) 2026 Marco Mattiucci
+#
+# Permission is hereby granted, free of charge, to any person obtaining a copy
+# of this software and associated documentation files (the "Software"), to deal
+# in the Software without restriction, including without limitation the rights
+# to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+# copies of the Software, and to permit persons to whom the Software is
+# furnished to do so, subject to the following conditions:
+#
+# The above copyright notice and this permission notice shall be included in all
+# copies or substantial portions of the Software.
+#
+# THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+# IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+# FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+# AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+# LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+# OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+# SOFTWARE.
+#############################################################################################
 
+COSTRUISCI IL FILE TXT, POI ALLEGALO AL LLM ACCOMPAGNANDOLO CON IL SEGUENTE PROMPT:
+Leggi il file allegato e processa le istruzioni/prompt una alla volta, confermandomi l'apprendimento di ogni punto prima di passare al successivo
+
+#############################################################################################
+INSERIRE NEL FILE TXT DA ALLEGARE AL LLM IL TESTO CHE SEGUE:
+#############################################################################################
 
 Da ora in avanti la "matrice del Tris" è una tabella 3x3 che può contenere, in ogni posizione, solo i simboli X,O,_
 
