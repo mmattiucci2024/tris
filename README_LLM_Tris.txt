@@ -1,5 +1,5 @@
 #############################################################################################
-# LLM instructions: The followng instructions can be inserted into a txt file a directly 
+# LLM instructions: The following instructions can be inserted into a txt file and directly 
 #                   loaded by a generic LLM.        
 # Rev: 2.0                                       
 # Updated: 3rd of January 2026                  
